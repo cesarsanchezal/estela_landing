@@ -27,8 +27,8 @@
                 Recibe a tu correo 
                 <br> nuestro  brochure </h2>
                 <div class="linea-form"></div>
-            <form id="formulario"  method="post">
-                
+            <form  method="post " id="formulario" >
+               
                 <div class="formulario__grupo" id="grupo__nombre">
                     <input class="input-form" id="nombre" type="text" name="nombre" placeholder="Nombre*" title="solo acepta letras y espeacios en blancos " > 
                     <p class="formulario__input-error">El nombre solo puede contener  letras</p>
@@ -174,13 +174,15 @@
                 <ul>
                     <li><a href=""><img src="/img/facebook.png" alt=""></a></li>
                     <li><a href=""><img src="/img/twiter.png" alt=""></a></li>
-                    <li><a href=""><img src="/img/instagram.png" alt=""></a></li>
+                    <li><a href=""><img src="../img/instagram.png" alt=""></a></li>
 
                 </ul>
             </div>
         </div>
 
     </footer>
+
+ 
    
     <script src="script/main.js"></script>
     <script src="script/formulario.js"></script>
