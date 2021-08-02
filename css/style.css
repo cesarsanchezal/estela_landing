@@ -402,19 +402,7 @@ margin-right: 50px;
 	color:#FFFFFF;
 }
 
-@media  screen and(max-width:800px){
 
-	.body {
-
-		
-	background-color: red;
-	
-	
-	}
-		
-	
-	
-}
 
 .formulario__grupo-incorrecto .input-form {
 	border-bottom: 3px solid #bb2929;
